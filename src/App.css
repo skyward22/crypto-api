@@ -54,3 +54,12 @@ body {
 .crypto img {
   height: 80px;
 }
+
+button { 
+  height: 3.5vh;
+  width: 5vw;
+  border-radius: 15px;
+  border: none;
+  background-color: orangered;
+  color: white;
+}
